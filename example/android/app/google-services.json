@@ -1,64 +1,49 @@
 {
   "project_info": {
-    "project_number": "773665512065",
-    "firebase_url": "https://project-working-for-testing-default-rtdb.firebaseio.com",
-    "project_id": "project-working-for-testing",
-    "storage_bucket": "project-working-for-testing.appspot.com"
+    "project_number": "491530144641",
+    "project_id": "vg-vynx-group-connect-chat-app",
+    "storage_bucket": "vg-vynx-group-connect-chat-app.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:773665512065:android:5708a78385fe29101a8b80",
+        "mobilesdk_app_id": "1:491530144641:android:2c5866769cf59324b3f680",
         "android_client_info": {
-          "package_name": "com.hiennv.testing"
+          "package_name": "com.example.vg_connect_chat_app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "773665512065-1shc4ufo4sfdt8v4lvmd0amhj1jqr3cl.apps.googleusercontent.com",
+          "client_id": "491530144641-iqdq8p09q2pcddonejsgciniragvcpfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vg_connect_chat_app",
+            "certificate_hash": "539558e2b5869a7261007a71e302fe0325e4ce6a"
+          }
+        },
+        {
+          "client_id": "491530144641-vnj3nl56a9mqvg78bmomu6k1c6os7nfo.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBv5X-BDvO8km6lVG8gllj4bY6lJLDUguY"
+          "current_key": "AIzaSyBq3sk3ITvsrGgvgHJIiWIVIhfiK7dXQoA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "773665512065-1shc4ufo4sfdt8v4lvmd0amhj1jqr3cl.apps.googleusercontent.com",
+              "client_id": "491530144641-vnj3nl56a9mqvg78bmomu6k1c6os7nfo.apps.googleusercontent.com",
               "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:773665512065:android:92f4f47a935afbf01a8b80",
-        "android_client_info": {
-          "package_name": "com.scripturequest"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "773665512065-1shc4ufo4sfdt8v4lvmd0amhj1jqr3cl.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBv5X-BDvO8km6lVG8gllj4bY6lJLDUguY"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
+            },
             {
-              "client_id": "773665512065-1shc4ufo4sfdt8v4lvmd0amhj1jqr3cl.apps.googleusercontent.com",
-              "client_type": 3
+              "client_id": "491530144641-f40gacav1qps8f5mhlntlf6fv7dds8o7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vgConnectChatApp"
+              }
             }
           ]
         }

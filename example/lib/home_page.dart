@@ -22,6 +22,7 @@ class HomePage extends StatefulWidget {
 }
 
 class HomePageState extends State<HomePage> {
+
   late final Uuid _uuid;
   String? _currentUuid;
   String textEvents = "";
@@ -135,7 +136,7 @@ class HomePageState extends State<HomePage> {
       final params = CallKitParams(
         id: _currentUuid,
         nameCaller: 'Hien Nguyen',
-        appName: 'Callkit',
+        appName: 'VG Connect',
         avatar: 'https://i.pravatar.cc/100',
         handle: '0123456789',
         type: 0,

@@ -1,5 +1,4 @@
 import 'dart:async';
-
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
@@ -19,7 +18,7 @@ Future<void> showCallkitIncoming(String uuid) async {
   final params = CallKitParams(
     id: uuid,
     nameCaller: 'Hien Nguyen',
-    appName: 'Callkit',
+    appName: 'VG Connect',
     avatar: 'https://i.pravatar.cc/100',
     handle: '0123456789',
     type: 0,
